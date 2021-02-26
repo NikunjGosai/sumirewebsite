@@ -1,0 +1,67 @@
+*{font-family: 'Open Sans', sans-serif;list-style: none;}
+.wrapper{background-color: black;}
+.detail1{margin-top: 10px;}
+.detail{color: white;}
+.imge{margin-top: 10px;}
+.imge span{color:#d0cccc;}
+.image{display: flex;margin-top: 10px;}
+.image1{margin-left: 100px;}
+.email1{position: relative;}
+.email1 span{position: absolute;left: 120px;}
+.para{display: flex;margin-left:225px;}
+.para img{margin-left: 15px;}
+.menu{padding-top: 10px;padding-bottom: 10px;line-height: 75px;}
+.menu-bar{margin-top: 22px;}
+.menu-bar li a{float:left;color: #383535;text-decoration: none;margin-left: 8px;font-size: 16px;}
+.menu-bar a:hover{color:#ffc903;}
+.menu-bar ul li{list-style: none;position: relative;}
+.menu-bar ul li.sub-menu:before{position: absolute;line-height: 50px;}
+.menu-bar ul li ul{position: absolute;left: 0px;background:#333;display: none;}
+.menu-bar ul li:hover ul{display: block;}
+.menu-bar ul li ul li{display: block;width: 100px;}
+.about-sumire{padding-top: 65px;}
+.about{color: white;}
+.about h2{padding-top: 20px;padding-bottom: 20px;font-size: 30px;font-weight:600;}
+.about1 h4{font-weight: 400;font-size: 26px;}
+.about1 span{font-weight: 700;font-size: 30px;color:#ffc903;}
+.circle{width: 20%;height:50px;background:#ffc903;border-radius: 28px;float: left;font-size: 28px;text-align: center;line-height: 57px;}
+.content{padding-top: 65px;padding-bottom: 60px;}
+.content h3{font-size: 19px;font-weight: 600;line-height: 30px;margin-bottom: 2px;}
+.content p{font-size: 14px;}
+.content1{display: flex;margin-left: 62px;}
+.content2{margin-left: 60px;line-height: 0px;}
+.wrapper1{background-color:#ecebeb;}
+.call1{padding-top: 30px;padding-bottom: 12px;}
+.appoint img{border: 1px solid black;padding-top: 3px;padding-bottom: 3px;float: left;}
+.appoint p{float: left;margin-left: 20px;padding-top: 4px;font-weight: 600;color: #2f2f2f;}
+.appoint span{color:#ffc903;}
+.box{width: 190px;height: 45px;line-height: 42px;font-size: 18px;background:#ffc903;color: white;text-align: center;font-weight:700;}
+.box:hover{background-color:transparent;color:black;border:2px solid #ffc903;}
+.wrapper2{background-color: black;padding-top:65px;padding-bottom: 90px;}
+.footer{color: white;}
+.footer1 h3{font-size: 22px;font-weight: 600;}
+.footer1 p{font-size: 15px;color: #e2e0e0;line-height: 23px;margin-top: 24px;}
+.list{margin-top:17px;}
+.footer1 a{color:#e2e0e0;text-decoration: none;margin-left: -37px;font-size: 15px;line-height: 34px;}
+.footer1 a:hover{color:#ffc903;text-decoration: underline;}
+.img1{float: left;}
+.address h4{float: left;margin-left: 20px;font-size: 22px;font-weight: 600;margin-top: -5px;}
+.para1{float: left;margin-left: 48px;font-size: 14px;color:#e2e0e0;}
+.img2{float: left;}
+.header{float: left;margin-left: 20px;font-size: 22px;font-weight: 600;}
+.para2{float: left;margin-left: -82px;line-height: 88px;font-size: 14px;color:#e2e0e0;}
+.para2:hover{color:#ffc903;}
+.email{float: left;margin-top: 70px;margin-left: -156px}
+.img3{float: left;}
+.header1{float: left;margin-left: 18px;font-size: 22px;font-weight: 600;}
+.para3{float: left;margin-left: -70px;line-height: 92px;font-size: 14px;color:#e2e0e0;}
+.footer2{border-bottom: 2px solid grey;}
+.social{padding-left:762px;margin-top: 15px;margin-bottom: -34px;}
+.social h4{color:white;float: left;font-size: 22px;font-weight: 600;}
+.images{float: left;}
+.images img{margin-left: 10px;}
+.wrapper3{background-color:#0c0c0c;}
+.copyright{color: white;padding-top: 20px;padding-bottom: 5px;}
+
+.copyright span{font-weight: 600;}
+.copyright span:hover{color: #ffc903;}

@@ -1,0 +1,55 @@
+@media screen and (max-width:575px){
+	.col-11{text-align: center;}
+	.email1{position: relative;}
+	.image1 img{position: absolute;top:4px;}
+	.image1 span{position: absolute;left: 100px;}
+	.email1{position: relative;}
+	.img-detail1{position: absolute;right: 15px;}
+    .detail{padding-bottom: 15px;}
+	.menu{padding-top: 10px;padding-bottom: 10px;line-height:30px;}
+}
+
+
+@media screen and (max-width: 767px){
+    
+	.questions1{margin-bottom: -14px;}
+    .email1{position: relative;}
+    .email1 span{margin-left:-78px;}
+    .image1 img{position: absolute;left: 0px;bottom: 18px;}
+	
+	.img-detail1{margin-left: 0px;}
+	.img-detail1 img{margin-left: 5px;}
+	.menu1{text-align: center;}
+	.menu2{text-align: center;}
+	.sumire1{padding-top: 25px;}
+	.sumire2{padding-top:15px;}
+	.circle1{width: 30%;height: 50px;}
+	.contents{padding-top: 10px;padding-bottom: 5px;}
+	.appoint1{position: relative;}
+	.appoint1 p{font-size: 14px;position: absolute;left: 45px;top: 24px;}
+	.appoint2{margin-left: 70px;}
+	.social1{position: relative;}
+	.social2{position: absolute;left: 0px;top:0px;margin-bottom: 5px;}
+	/*.rights{padding-bottom: 10px;}*/
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+	.questions1{text-align: center;}
+	.circle1{width: 50px;height: 50px;}
+	
+	.appoint2{padding-top:0px;}
+	/*.box{position: absolute;right: 0px;}*/
+	.address{position: relative;}
+	.address h4{position: absolute;left: 29px;top: 6px;}
+	.para1{margin-left: 10px;position:absolute;right:151px;bottom: -42px;}
+	.phone{position: relative;}
+	.img2{position: absolute;left: 0px;top:56px;}
+	.header{position: absolute;left: 30px;top:58px;}
+	.para2{position: absolute;left: 225px;top: 28px;}
+	.email{position: relative;margin-left: -30px;padding-top: 112px;}
+	.img3{position: absolute;left: 0px;top: 44px;}
+	.header1{position: absolute;left: 32px;top: 47px;}
+	.para3{position: absolute;left: 202px;top: 17px;}
+    .social1{padding-left: 2px;}
+}
