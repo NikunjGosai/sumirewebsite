@@ -1,10 +1,9 @@
 *{font-family: 'Open Sans', sans-serif;list-style: none;}
 .wrapper{background-color: black;}
-.detail1{margin-top: 10px;}
-.detail{color: white;}
+.detail{color: white;padding-top: 20px;}
 .imge{margin-top: 10px;}
 .imge span{color:#d0cccc;}
-.image{display: flex;margin-top: 10px;} 
+.image{display: flex;margin-top: 10px;}
 .image1{margin-left: 100px;}
 .email1{position: relative;}
 .email1 span{position: absolute;left: 120px;}
