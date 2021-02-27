@@ -23,7 +23,7 @@
 .about h2{padding-top: 20px;padding-bottom: 20px;font-size: 30px;font-weight:600;}
 .about1 h4{font-weight: 400;font-size: 26px;}
 .about1 span{font-weight: 700;font-size: 30px;color:#ffc903;}
-.circle{width: 20%;height:50px;background:#ffc903;border-radius: 28px;float: left;font-size: 28px;text-align: center;line-height: 57px;}
+.circle{width: 50px;height:50px;background:#ffc903;border-radius: 28px;float: left;font-size: 28px;text-align: center;line-height: 57px;}
 .content{padding-top: 65px;padding-bottom: 60px;}
 .content h3{font-size: 19px;font-weight: 600;line-height: 30px;margin-bottom: 2px;}
 .content p{font-size: 14px;}

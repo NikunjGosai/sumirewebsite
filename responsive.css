@@ -1,12 +1,27 @@
 @media screen and (max-width:575px){
 	.col-11{text-align: center;}
+	.image{padding-bottom: 10px;}
 	.email1{position: relative;}
-	.image1 img{position: absolute;top:4px;}
-	.image1 span{position: absolute;left: 100px;}
+	.image1 img{position: absolute;top:4px;left: 0px;}
+	.image1 span{position: absolute;left:19px;}
 	.email1{position: relative;}
-	.img-detail1{position: absolute;right: 15px;}
+	.img-detail1{position: absolute;right: 6px;}
+	.img-detail1 img{margin-left: 10px;}
     .detail{padding-bottom: 15px;}
 	.menu{padding-top: 10px;padding-bottom: 10px;line-height:30px;}
+	.menu1{text-align: center;padding-top: 10px;padding-bottom: 10px;}
+	.menu2 li a{font-size: 9px;}
+	.abt-sumire img{margin-top: -42px;}
+	.sumire2{padding-top: 32px;}
+	.circle{width: 50px;height:50px;background:#ffc903;border-radius: 28px;float: left;font-size: 28px;text-align: center;line-height: 57px;}
+    .content{position: relative;padding-top:0px;}
+    .content1{line-height: 14px;}
+	.content2{position: absolute;left: 10px;}
+	.best1{position: absolute;left: 14px;}
+	.content3{position: absolute;left: 14px;line-height: 10px;}
+	.appoint1{margin-left: 30px;position: relative;}
+	.appoint1 img{position: absolute;left: -12px;}
+    .appoint2{margin-left: 75px;padding-top: 10px;}
 }
 
 @media screen and (min-width:576px) and (max-width:767px){
