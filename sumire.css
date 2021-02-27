@@ -4,7 +4,7 @@
 .detail{color: white;}
 .imge{margin-top: 10px;}
 .imge span{color:#d0cccc;}
-.image{display: flex;margin-top: 10px;}
+.image{display: flex;margin-top: 10px;} 
 .image1{margin-left: 100px;}
 .email1{position: relative;}
 .email1 span{position: absolute;left: 120px;}

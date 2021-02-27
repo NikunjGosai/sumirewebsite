@@ -9,30 +9,11 @@
 	.menu{padding-top: 10px;padding-bottom: 10px;line-height:30px;}
 }
 
-
-@media screen and (max-width: 767px){
+@media screen and (min-width:576px) and (max-width:767px){
     
-	.questions1{margin-bottom: -14px;}
-    .email1{position: relative;}
-    .email1 span{margin-left:-78px;}
-    .image1 img{position: absolute;left: 0px;bottom: 18px;}
-	
-	.img-detail1{margin-left: 0px;}
-	.img-detail1 img{margin-left: 5px;}
-	.menu1{text-align: center;}
-	.menu2{text-align: center;}
-	.sumire1{padding-top: 25px;}
-	.sumire2{padding-top:15px;}
-	.circle1{width: 30%;height: 50px;}
-	.contents{padding-top: 10px;padding-bottom: 5px;}
-	.appoint1{position: relative;}
-	.appoint1 p{font-size: 14px;position: absolute;left: 45px;top: 24px;}
-	.appoint2{margin-left: 70px;}
-	.social1{position: relative;}
-	.social2{position: absolute;left: 0px;top:0px;margin-bottom: 5px;}
-	/*.rights{padding-bottom: 10px;}*/
-
-}
+    .questions1{text-align: center;}
+    .image{margin-left:10px;}
+}	
 
 @media only screen and (min-width: 768px) and (max-width: 1024px){
 	.questions1{text-align: center;}
